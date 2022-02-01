@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CFT</string>
+    <string-array name="Countries">
+        <item> All Countries </item>
+        <item> India </item>
+        <item> Kazakhstan </item>
+        <item>Uzbekistan</item>
+        <item>China</item>
+    </string-array>
+</resources>
